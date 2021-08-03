@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399537119217",
+    "firebase_url": "https://omarnasserecom.firebaseio.com",
+    "project_id": "omarnasserecom",
+    "storage_bucket": "omarnasserecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399537119217:android:691c32dd090ee3bbd26e50",
+        "android_client_info": {
+          "package_name": "com.omarnasser.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399537119217-kukfl5nkdk477mm6ho6egi8ukhn723g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2za38I3JsCVCJeaffW9BaujdTVGHmL3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399537119217-kukfl5nkdk477mm6ho6egi8ukhn723g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
